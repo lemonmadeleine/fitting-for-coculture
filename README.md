@@ -1,4 +1,4 @@
-# Circuit-guided acclimation of a synthetic bacterial consortium for improved conversion of alginate to a product
+### Circuit-guided acclimation of a synthetic bacterial consortium for improved conversion of alginate to a product
 
 # Mathematical fitting for co-culture
 ---------------------
@@ -8,7 +8,7 @@ Main folder : model for co-culture under various ampicillin concentration condit
 Constitutive folder : model for consortia with the constitutive expression of bla.
 nb and csv files should be in the same path.
 
-## -Used experimental data for fitting
+# Used experimental data for fitting
 ---------------------
  
  
