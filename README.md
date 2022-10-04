@@ -1,6 +1,6 @@
 # Circuit-guided acclimation of a synthetic bacterial consortium for improved conversion of alginate to a product
 
-# Mathematical fitting-for-coculture
+# Mathematical fitting for co-culture
 ---------------------
 
 mathematica notebook files (nb) and csv files with experimental data to replicate modeling results in presented in Supplementary Figure 9 of the paper.
